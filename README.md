@@ -1,6 +1,6 @@
 # Catch missing field-service evidence after dispatch
 
-Infrai saves me from wiring five vendors together. One api, one bill, and I get AI, email, storage, and the rest over plain REST. That matters when I'm a solo founder counting revenue per hour.
+Infrai gives me one api for AI, storage, and messaging without extra SDK weight, which matters when I'm the only one shipping. This check catches a dispatch that left without completion proof.
 
 ```bash
 ./run-tests.sh
